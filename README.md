@@ -9,14 +9,20 @@ I'm Stetson.  Currently I'm available for hire to help:
 ## 🛠️ I'm Great With
 <p align='left'>
   <a href="#"><img style="width:50px;" src="./assets/img/js.svg"/></a>
-  <img style="width:50px" src="./assets/img/typescript.svg"/>
-  <img style="width:50px" src="./assets/img/nodejs.svg"/>
-  <img style="width:50px" src="./assets/img/html.svg"/>
-  <img style="width:50px" src="./assets/img/css.svg"/>
-  <img style="width:50px" src="./assets/img/sass.svg"/>
-  <img style="width:50px" src="./assets/img/astro.svg"/>
-  <a href="https://www.11ty.dev/"><img style="width:50px" src="./assets/img/eleventy.svg"/></a>
+  <a href="#"><img style="width:50px" src="./assets/img/typescript.svg"/></a>
+  <a href="#"><img style="width:50px" src="./assets/img/nodejs.svg"/></a>
+  <a href="#"><img style="width:50px" src="./assets/img/html.svg"/></a>
+  <a href="#"><img style="width:50px" src="./assets/img/css.svg"/></a>
+  <a href="https://sass-lang.com/" target="_blank" rel="noopener"><img style="width:50px" src="./assets/img/sass.svg"/></a>
+  <a href="https://www.astro.build/" target="_blank" rel="noopener"><img style="width:50px" src="./assets/img/astro.svg"/></a>
+  <a href="https://www.11ty.dev/" target="_blank" rel="noopener"><img style="width:50px" src="./assets/img/eleventy.svg"/></a>
 </p>
 
+*note: the above tools are what I reach for most with new projects, they aren't the extent of what I'm familiar with*
+
+## No Code / Low Code Tools
+<p align='left'>
+
+</p>
 
 
