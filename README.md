@@ -7,5 +7,16 @@ I'm Stetson.  Currently I'm available for hire to help:
 - 📁 create something custom for your business in Airtable
 
 ## 🛠️ I'm Great With
-![AstroJS](./assets/img/astro.svg)
+<p align='left'>
+  <a href="#"><img style="width:50px;" src="./assets/img/js.svg"/></a>
+  <img style="width:50px" src="./assets/img/typescript.svg"/>
+  <img style="width:50px" src="./assets/img/nodejs.svg"/>
+  <img style="width:50px" src="./assets/img/html.svg"/>
+  <img style="width:50px" src="./assets/img/css.svg"/>
+  <img style="width:50px" src="./assets/img/sass.svg"/>
+  <img style="width:50px" src="./assets/img/astro.svg"/>
+  <a href="https://www.11ty.dev/"><img style="width:50px" src="./assets/img/eleventy.svg"/></a>
+</p>
+
+
 
