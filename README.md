@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 I'm Stetson.  Currently I'm available for hire to help:
 - 🖥️ build a website
@@ -22,7 +22,59 @@ I'm Stetson.  Currently I'm available for hire to help:
 
 ## No Code / Low Code Tools
 <p align='left'>
-
+  <a href="https://pipedream.com/" target="_blank" rel="noopener"><img style="width:125px; height:50px; display:grid; place-items:center;" src="./assets/img/pipedream.svg"/></a>
+  <a href="https://www.airtable.com/" target="_blank" rel="noopener"><img style="width:50px" src="./assets/img/airtable.svg"/></a>
+  <a href="https://zapier.com/" target="_blank" rel="noopener"><img style="width:50px" src="./assets/img/zapier.svg"/></a>
 </p>
 
+## More About 👈
+```javascript
+const stetson = {
+//Personal
+  location: "Santa Barbara, CA",
+  hobbies: ["Woodworking", "Home Remodeling", "Traveling"],
+  favoriteFood: "pizza",
+  coffee: {
+    drink: true,
+    daysPerWk: 8
+  },
+  pets: {
+    number: 1,
+    type: "cat",
+    petName: "Lemon",
+    lovePet: true
+  }
+  
+//Work
+  compaines: [
+    {
+      name: "Great Plains Painting",
+      founded: true,
+      exit: true,
+      yearStarted: 2015,
+      yearExit: 2019,
+      role: "Tech / Accounting / Sales Training & Support",
+      website: "https://www.greatplainspaintingkc.com",
+     },
+     {
+      name: "Tis the Season Holiday Lighting",
+      founded: true,
+      exit: false,
+      yearStarted: 2016,
+      yearExit: undefined,
+      role: "Tech / Business Automation / Accounting / Operations",
+      website: "https://www.tistheseasonkc.com",
+     },
+     {
+      name: "Freelance",
+      founded: true,
+      exit: false,
+      yearStarted: 2022,
+      yearExit: undefined,
+      role: "All the things",
+      website: undefined, 
+     }
+  ],
+}
+```
 
