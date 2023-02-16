@@ -78,3 +78,10 @@ const stetson = {
 }
 ```
 
+## Me in < 1,000 Characters
+I excel at figuring things out (both problems with objects in the physical world and problems in the world of bits & bytes), working with people, and automating complex systems (at least with processes that are repetitive).  I started two companies [Great Plains Painting](https://www.greatplainspaintingkc.com) and [Tis the Season](https://www.tistheseasonkc.com).  I sold Great Plains Painting and still actively operate Tis the Season on a seasonal basis.  I built all the tech for these two business (it's how I learned) with the goal of optimizing two key metrics:
+- optimize the customer service and service quality
+- minimize the size of the team required to do so (leverage tech to be the team where possible)
+
+I spend my days learning new skills, improving business processes, and taking in the CA sunshine!
+
