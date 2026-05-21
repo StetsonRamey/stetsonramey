@@ -83,5 +83,5 @@ I excel at figuring things out (both problems with objects in the physical world
 - optimize the customer service and service quality
 - minimize the size of the team required to do so (leverage tech to be the team where possible)
 
-I spend my days learning new skills, improving business processes, and taking in the CA sunshine!
+I spend my days learning new skills, improving business processes, and taking in the CO sunshine!
 
